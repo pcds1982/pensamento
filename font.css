@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Biome';
+  src: url('fonts/Biome.woff2') format('woff2'),
+       url('fonts/Biome.woff') format('woff'),
+       url('fonts/Biome.ttf') format('truetype');
+}
+body {
+  font-family: 'Biome', sans-serif;
+}
